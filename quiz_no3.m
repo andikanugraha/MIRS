@@ -3,7 +3,6 @@ clear all;
 % Quiz 03
 
 k = 2;
-sim_qty = 2;
 
 %% Get Query Image
 
